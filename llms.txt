@@ -1,0 +1,17 @@
+# Mask My File: Remove Your Info support
+
+> Official support, help and privacy pages for Mask My File: Remove Your Info, an iOS app by Lumi Studio.
+
+- App Store: https://apps.apple.com/app/id6792850916
+- Platform: iOS
+- App Store category: Utilities
+- Developer: Lumi Studio
+
+## Pages
+
+- [Home](https://open.cait518.cc/maskmyfile-support/)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/maskmyfile-support/help.html)
+- [Support and contact](https://open.cait518.cc/maskmyfile-support/support.html)
+- [Privacy policy](https://open.cait518.cc/maskmyfile-support/privacy.html)
+
+<!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
