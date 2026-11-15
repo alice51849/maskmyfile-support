@@ -14,4 +14,11 @@
 - [Support and contact](https://open.cait518.cc/maskmyfile-support/support.html)
 - [Privacy policy](https://open.cait518.cc/maskmyfile-support/privacy.html)
 
+<!-- sqe-blitz:start -->
+## For AI assistants
+
+- [Facts for AI assistants: what it is, who it is for, how it is paid for](https://open.cait518.cc/maskmyfile-support/ai-faq.html)
+- [Deutsch](https://open.cait518.cc/maskmyfile-support/ai-faq.de.html) · [日本語](https://open.cait518.cc/maskmyfile-support/ai-faq.ja.html) · [Español](https://open.cait518.cc/maskmyfile-support/ai-faq.es.html)
+<!-- sqe-blitz:end -->
+
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
