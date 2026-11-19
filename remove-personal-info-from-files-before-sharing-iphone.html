@@ -55,6 +55,9 @@ a{color:var(--accent)}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="robots" content="max-image-preview:large">
 <!-- ls-sharecard:end -->
+<!-- ls-clickbeacon:start -->
+<script>(function(){var E='https://office.cait518.cc/api/click';function h(e){try{var t=e.target,l=t&&t.closest&&t.closest('a[href]');if(!l||!navigator.sendBeacon)return;var u=new URL(l.href,location.href),s,k,c,q=u.searchParams;if(u.hostname==='apps.apple.com'){s='apple';k=(u.pathname.match(/\/id(\d+)/)||[])[1]||'';c=q.get('ct')||''}else if(u.hostname==='play.google.com'){s='play';var r=new URLSearchParams(q.get('referrer')||'');k=r.get('utm_campaign')||q.get('id')||'';c=r.get('utm_source')||''}else return;navigator.sendBeacon(E,JSON.stringify({p:location.pathname.slice(0,200),a:k.slice(0,100),ct:c.slice(0,64),s:s}))}catch(_){}}document.addEventListener('click',h,true);document.addEventListener('auxclick',h,true)})();</script>
+<!-- ls-clickbeacon:end -->
 </head>
 <body>
 <p class="first-party-disclosure" data-first-party-disclosure="banner" role="note" style="margin:0;padding:8px 16px;background:#f3f4f6;color:#1f2937;border-bottom:1px solid #d1d5db;font-size:13px;line-height:1.5;text-align:center">This site is run by Lumi Studio, the developer of the featured apps. The apps recommended here are our own.</p>
@@ -77,6 +80,7 @@ a{color:var(--accent)}
 <h2 id="check">Check the copy before you send it</h2>
 <ol><li>Open the new copy, not the original.</li><li>Search it for one value you removed, such as the last digits of an account number or an email domain. On a PDF, also try selecting text where the redaction sits.</li><li>Look over the whole page or image once more for info in headers, footers, signatures or the background.</li></ol>
 <p>Mask My File reopens and verifies the new copy for you, but a ten-second look of your own is still a good habit.</p>
+<p>Already have a PDF someone else redacted? Drop it into our free <a href="pdf-redaction-checker.html">PDF redaction checker</a> to see whether text is still under the black boxes. It runs in your browser and does not upload the file.</p>
 <h2 id="buy">Free version first, one purchase for unlimited verified files</h2>
 <p>Mask My File is free to download. One purchase then unlocks unlimited verified outputs and batch processing for good: no subscription, and you can restore the purchase anytime through the App Store.</p>
 <div class="cta">
